@@ -1,3 +1,7 @@
+html {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
 .img {
   background-color: #ddd;
 }
@@ -12,4 +16,8 @@
 
 .nav {
   background-color: #ddd;
+}
+
+.push-logo {
+  max-width: 200px;
 }
